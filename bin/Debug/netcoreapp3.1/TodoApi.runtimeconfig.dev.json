@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LGL BD Exec\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LGL BD Exec\\.nuget\\packages"
+    ]
+  }
+}
